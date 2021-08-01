@@ -5,7 +5,7 @@ import NavBar from './Components/NavBar'
 import Home from './Components/Home'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import UpdateBook from './Components/UpdateBook'
-import {HashRouter as Router, Route, Switch} from 'react-router-dom'
+import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
 import DeleteBook from './Components/DeleteBook'
 import {AuthProvider} from './Context/Auth'
 import Login from './Components/Login'
