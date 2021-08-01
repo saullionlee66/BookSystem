@@ -1,3 +1,15 @@
+# React + Node.js/Express + MongoDB + Firebase Serverless Auth
+## 1. A React app with CRUD functions combined with Firebase Serverless Authentication and Registration.
+## 2. User can Create, Review, Update, and Delete book information.
+## 3. Use can signup and login, update/reset password via firebase service. 
+## 4. Private routers can be accessed only after logged in, such as Dashborad and UpdateProfile.
+## 5. Google Auth0 API included for log-in
+## 6. This app has been containerized via Docker, served by Nginx and deployed on an Ubuntu 20.04 OS cloud host
+## 7. Used: MERN, axios, react-router-dom, material-ui, react-bootstrap, firebase, google auth0, react-cookies, etc.
+
+
+# Getting Started with Create React App
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
